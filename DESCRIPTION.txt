@@ -1,0 +1,4 @@
+Package: identify-duplicates
+Type: Package
+Title: Identify Duplicate Water Sources Observations
+Version: 0.0.1.0
